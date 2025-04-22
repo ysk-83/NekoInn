@@ -616,7 +616,7 @@ body::after {
 .logo svg {
   fill: var(--clr-text)
 }
-.heading {
+.heading--big {
   text-align: center
 }
 .heading--center {
@@ -1409,7 +1409,7 @@ body::after {
   .form__button {
     justify-self: center
   }
-  .heading {
+  .heading--big {
     text-align: left
   }
   .header__logo svg {
